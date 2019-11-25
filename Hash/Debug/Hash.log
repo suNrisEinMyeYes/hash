@@ -1,0 +1,20 @@
+﻿  hashTable.cpp
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  c:\users\артём\source\repos\hash\hash\hashtable.h(11): note: выполняется компиляция ссылки на экземпляр шаблон класс "hashTable<T>"
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C2238: непредвиденные лексемы перед ";"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2182: test: недопустимое использование типа "void"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2238: непредвиденные лексемы перед ";"
+c:\users\артём\source\repos\hash\hash\hashtable.cpp(15): error C2063: hashTable<T>::test: не является функцией
+c:\users\артём\source\repos\hash\hash\hashtable.cpp(15): error C2350: "hashTable<T>::test" не является статическим членом
+  c:\users\артём\source\repos\hash\hash\hashtable.cpp(14): note:  см. объявление "hashTable<T>::test"
+  Hash.cpp
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+  c:\users\артём\source\repos\hash\hash\hashtable.h(11): note: выполняется компиляция ссылки на экземпляр шаблон класс "hashTable<T>"
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C4430: отсутствует спецификатор типа - предполагается int. Примечание. C++ не поддерживает int по умолчанию
+c:\users\артём\source\repos\hash\hash\hashtable.h(6): error C2238: непредвиденные лексемы перед ";"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2143: синтаксическая ошибка: отсутствие ";" перед "<"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2182: test: недопустимое использование типа "void"
+c:\users\артём\source\repos\hash\hash\hashtable.h(10): error C2238: непредвиденные лексемы перед ";"
+  Создание кода...
