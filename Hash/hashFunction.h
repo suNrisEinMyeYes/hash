@@ -1,7 +1,14 @@
 #pragma once
+
+#include "stdafx.h"
+#include <iostream>
+#include <string>
+using std::string;
 class hashFunction
 {
+	
 public:
-	void sum(int, int);
+	hashFunction();
+	virtual int hash(string & A);
 };
 
