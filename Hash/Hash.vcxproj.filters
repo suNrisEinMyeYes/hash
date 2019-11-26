@@ -41,9 +41,6 @@
     <ClCompile Include="hashFunction.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="comparator.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="fileReader.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

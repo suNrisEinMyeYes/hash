@@ -3,16 +3,6 @@
 #include "hashFunction.h"
 #include <string>
 using namespace std;
-
-
-
-
-
-hashFunction::hashFunction()
-{
-		
-}
-
 int hashFunction::hash(string & A)
 {
 	int result = int(A[0]);

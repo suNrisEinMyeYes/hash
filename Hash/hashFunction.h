@@ -6,9 +6,7 @@
 using std::string;
 class hashFunction
 {
-	
 public:
-	hashFunction();
 	virtual int hash(string & A);
 };
 

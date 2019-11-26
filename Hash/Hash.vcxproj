@@ -154,7 +154,6 @@
     <ClInclude Include="targetver.h" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="comparator.cpp" />
     <ClCompile Include="fileReader.cpp" />
     <ClCompile Include="Hash.cpp" />
     <ClCompile Include="hashFunction.cpp" />
